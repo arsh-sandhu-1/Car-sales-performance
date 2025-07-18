@@ -14,10 +14,13 @@ This Power BI dashboard visualizes key sales metrics of BMW vehicles, enabling d
 -	Monthly Sales Pattern: Spikes observed in Q2 and Q4, likely driven by seasonal promotions and end-of-year bonuses.
 
 ## 📌 Key Findings:
-- SUVs (particularly the X series) dominate the sales landscape, suggesting a shift in consumer preference toward larger vehicles.
-- Some models underperform despite high pricing, indicating a need for repositioning or promotional strategy adjustments.
--	Opportunities exist to grow sales in underperforming regions by analyzing demographic and economic factors.
+- ✅ Top-Performing Models: Specific BMW models significantly outperformed others in terms of volume and revenue, showcasing market preference and product success.
 
+- ✅ Regional Sales Trends: Sales are heavily concentrated in certain regions, revealing high-potential markets and areas for improvement.
+
+- ✅ Monthly Performance: Notable seasonality in sales was observed—certain months consistently see higher sales, potentially linked to promotional periods or new model launches.
+
+- ✅ Profitability Breakdown: Revenue vs. cost analysis helped highlight the most profitable segments and customer preferences.
 ## 📈 Reports Include:
 -  Sales Overview: Total sales, revenue, and average unit price by year/month.
 -  Model-wise Performance: Unit sales and revenue across all BMW models.
