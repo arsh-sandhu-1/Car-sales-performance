@@ -25,3 +25,7 @@ This Power BI dashboard visualizes key sales metrics of BMW vehicles, enabling d
 -	Region-wise Performance Analysis
 -	Top 10 Best-Selling Models
 -	Profit Margin Distribution
+
+##	Dashboard
+![Dashboard.jpg](https://github.com/arsh-sandhu-1/Car-sales-performance/blob/e4d5cfa14001d53098b0e8024df624e1e76cc1f4/Dashboard.jpg)
+
