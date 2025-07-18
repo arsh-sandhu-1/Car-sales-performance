@@ -19,12 +19,11 @@ This Power BI dashboard visualizes key sales metrics of BMW vehicles, enabling d
 -	Opportunities exist to grow sales in underperforming regions by analyzing demographic and economic factors.
 
 ## 📈 Reports Include:
--	Total Sales by Model & Category
--	Revenue vs Units Sold Comparison
--	Sales Trend Over Time (Monthly/Quarterly)
--	Region-wise Performance Analysis
--	Top 10 Best-Selling Models
--	Profit Margin Distribution
+-  Sales Overview: Total sales, revenue, and average unit price by year/month.
+-  Model-wise Performance: Unit sales and revenue across all BMW models.
+-  Geographical Analysis: Heatmaps and charts showing sales distribution by country/region.
+-  Customer Segmentation: Purchase behavior segmented by customer types or demographics (if available).
+-  Profitability Metrics: Visual comparison of cost, revenue, and profit.
 
 ##	Dashboard
 ![Dashboard.jpg](https://github.com/arsh-sandhu-1/Car-sales-performance/blob/e4d5cfa14001d53098b0e8024df624e1e76cc1f4/Dashboard.jpg)
