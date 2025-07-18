@@ -3,6 +3,7 @@ I'm excited to share my latest Power BI dashboard project focusing on BMW vehicl
 
 ## Dataset used
 - <a href="https://github.com/arsh-sandhu-1/Car-sales-performance/commit/e4d5cfa14001d53098b0e8024df624e1e76cc1f4">Dataset</a>
+## 💼 Tools Used: Power BI | DAX | Data Modeling | Data Cleaning
 
 ## 📊 Summary:
 This Power BI dashboard visualizes key sales metrics of BMW vehicles, enabling deeper insight into brand performance, revenue trends, customer preferences, and regional dynamics. It allows stakeholders to make informed decisions through real-time and interactive visualizations.
