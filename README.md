@@ -8,7 +8,7 @@ I'm excited to share my latest Power BI dashboard project focusing on BMW vehicl
 This Power BI dashboard visualizes key sales metrics of BMW vehicles, enabling deeper insight into brand performance, revenue trends, customer preferences, and regional dynamics. It allows stakeholders to make informed decisions through real-time and interactive visualizations.
 
 ## 🔍 Key Insights:
-•	Top Performing Models: The BMW X5 and 3 Series consistently lead in unit sales, reflecting high consumer preference.
+### Top Performing Models: The BMW X5 and 3 Series consistently lead in unit sales, reflecting high consumer preference.
 •	Revenue Distribution: Revenue is predominantly driven by premium models, especially in urban metropolitan regions.
 •	Regional Trends: Certain states/regions show stronger sales volume—highlighting potential focus areas for targeted marketing.
 •	Monthly Sales Pattern: Spikes observed in Q2 and Q4, likely driven by seasonal promotions and end-of-year bonuses.
